@@ -8,7 +8,7 @@ The official website for **ShellChat** - The Retro-Futuristic, Serverless P2P Ch
 
 This repository contains the source code for the ShellChat landing page and documentation portal. It features a premium "Hacker/Cyberpunk" aesthetic with neon accents, CRT effects, and terminal-style typography.
 
-**Live URL**: [shellchat.org](https://shellchat.org) (Coming Soon)
+**Live URL**: [shellchat.netlify.app](https://shellchat.netlify.app) 
 
 ## 🛠️ Tech Stack
 
