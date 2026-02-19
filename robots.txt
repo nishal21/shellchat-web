@@ -1,0 +1,6 @@
+# robots.txt for nishal21/shellchat-web
+User-agent: *
+Allow: /
+
+# Replace the example.com domain below with your production domain
+Sitemap: https://example.com/sitemap.xml
