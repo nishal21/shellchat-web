@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Replace the example.com domain below with your production domain
-Sitemap: https://https://shellchat.netlify.app/sitemap.xml
+Sitemap:https://shellchat.netlify.app/sitemap.xml
